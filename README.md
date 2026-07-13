@@ -2,10 +2,11 @@
 Stuff I need to do
 
 ## Life
-- [ ] Apologise to Sian for that pitiful TMA I rushedly put together
-- [x] Respond to e-mails
-- [x] Buy cigarettes
-- [ ] Stop smoking cigarettes
+
+- [x] Stop smoking cigarettes
+- [ ] Watch some of the video that Desu sent you
+- [ ] Watch the videos Adam sent you on Dawn of War IV
+- [ ] Stop listening to Spectre
 
 ## Website
 - [ ] Make website amber coloured
@@ -15,6 +16,3 @@ Stuff I need to do
 - [ ] Find a way to better display posts
 - [ ] Add password protected posts
 - [ ] Add some more stuff I don't know what yet
-
-## C
-- [ ] Finish reading C A Modern Approach
